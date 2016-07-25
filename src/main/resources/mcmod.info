@@ -1,0 +1,17 @@
+[
+{
+  "modid": "paths",
+  "name": "Paths",
+  "description": "Paths is a mod that adds quest generation to minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",  
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NightRed"],
+  "credits": "Mystress",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
